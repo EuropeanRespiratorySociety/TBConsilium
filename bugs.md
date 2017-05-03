@@ -24,8 +24,14 @@ Russian pdf are badly encoded. (disclaimer, rules) and display weirdly.
 
 # Focal points
 ## Case B
+
+### Focal point cannot work as a doctor
 When a focal points assigns himself as the doctor, the system bugs.. the focal point cannot fill the full form. I guess this is because the focal point should not see the data from the doctor... When the status ntpr is removed from the user, everything works...
+
+### Focal point of one country can send to doctors of another
+If a focal point sends a case as a doctor to another country, the case is submitted to the country, BUT, the focal point of the country **do not** recieve the case. Instead, the focal point who submited the case, gets can assign the case to doctors in the receiving country. If the focal point of the sending country chooses to assign someon he sees the complete list of doctor of the receiving country, then the focal point of the sending country cannot submit the full report to the receiving doctor (previous issue). **case example**: \#4171670001
 
 # Files
 One of the test cases had the files of someone else. It happened when someone added a file to a case that he assigned to himself and he added the file to the case at the end. I did not really understood how this happened. But something fishy happened here.
+
 
