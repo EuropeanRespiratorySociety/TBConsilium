@@ -2,13 +2,16 @@
 1. Short form
     a. We need to ad a multiselect for the drugs, not all have them.
     b. Translation is not compplete -> print screen
-2. Registration form
+2. Short form case C 
+    a. Фактический адрес в стране производства -> происхождения (гражданство)
+3. Registration form
     a. name (imia), name (imia) (in russian) needs to be "imia", "familia"
     b. select the language says "Ruckij" we need "Iazik" (language)
     c. some translation missing "place to go" -> "Kuda"
-3. long form
+4. long form
     a. step 2 and 3 neizvestna -> neizvestno
-4. All 
+    b. step 3 if you select yes (da) and click on save, then you get an error message as expected, but if you change your mind and want to select unkknown, and you try to save you get the error message of the yes additional fields.
+5. All 
     a. Date format is not correct: mm/dd/yyyy -> dd/mm/yyyy
     b. emails do not work well, hotmail, mail.ru, who... seem not to be recieving mails... -> solved infomniak block sending mails... was the server hacked? if not we need to check the correctness of mails sent by the website.
 

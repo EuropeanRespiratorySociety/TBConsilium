@@ -15,6 +15,8 @@ Hidden fields should have a display:none property set by default and not be hidd
 
 # All
 ## dashboard(s)
+### Status
+Case closed -> Feedback sent, cased closed
 ### sorting
 add the possibility to sort by date, status, etc in order to find a case faster.
 
@@ -35,3 +37,6 @@ before submitting forms users have suggested to add a review step as they had so
 
 # Alert WHO
 We need to alert the WHO if nothing happens on a case after 3 working days
+
+# Emails/Contact
+We should find a way for the doctors to be able to communicate between themselves. For example in case B, the receiving doctor might want to ask something to the sending doctor, how can he do this as he does not have any contact information.
