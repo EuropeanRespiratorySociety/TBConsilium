@@ -1,5 +1,5 @@
 # Deadline: June!!!
-
+KZ has meeting starting in june, it would be nice to have the main bugs and translation issues fixed by then.
 # Forms
 1. Short form
     a. We need to ad a multiselect for the drugs, not all have them.
