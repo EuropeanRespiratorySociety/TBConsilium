@@ -1,3 +1,5 @@
+# Deadline: June!!!
+
 # Forms
 1. Short form
     a. We need to ad a multiselect for the drugs, not all have them.
@@ -14,6 +16,9 @@
 5. All 
     a. Date format is not correct: mm/dd/yyyy -> dd/mm/yyyy
     b. emails do not work well, hotmail, mail.ru, who... seem not to be recieving mails... -> solved infomniak block sending mails... was the server hacked? if not we need to check the correctness of mails sent by the website.
+
+# Documentation
+In russian!    
 
 # Global translations
 1. Notifications
